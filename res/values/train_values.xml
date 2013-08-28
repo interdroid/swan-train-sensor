@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- train sensor -->
+    <string-array name="train_valuepaths">
+        <item>departure</item>
+    </string-array>
+
+    <!-- types -->
+    <string-array name="types" >
+        <item>Intercity</item>
+        <item>Sprinter</item>
+        <item>Fyra</item>
+    </string-array>
+
+
+</resources>
